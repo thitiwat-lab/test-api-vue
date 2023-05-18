@@ -1,0 +1,25 @@
+.ant-menu-dark.ant-menu-inline .ant-menu-item {
+  color: rgba(255, 255, 255, 0.842);
+  background-color: #061d3369;
+  border-radius: 8px;
+}
+.ant-layout-sider-children {
+  padding: 4px;
+}
+.mb-4 {
+  margin-bottom: 24px;
+}
+
+.text-weight-size {
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.content-center {
+  display: flex;
+  justify-content: center;
+}
+.items-center {
+  display: flex;
+  justify-items: center;
+}
